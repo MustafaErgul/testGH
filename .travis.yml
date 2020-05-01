@@ -1,3 +1,2 @@
 language: shell
 before_script: echo hello
-script: true
